@@ -3,4 +3,4 @@ Este es un proyecto basado en un carrito de compras, los productos estan en card
 
 acontinuacion les mostrare ejemplos de como quedo el carrito de compras
 
-
+![image](https://user-images.githubusercontent.com/110652225/208947078-db3dd4a6-dfa0-4a61-99f2-61c4de07fcbd.png)
