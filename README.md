@@ -11,3 +11,5 @@ PRODUCTOS SELECCIONADOS:
 ![image](https://user-images.githubusercontent.com/110652225/208947850-5c9c288d-7563-4b94-b7c9-8cd5b36d261b.png)
 
 FACTURA:
+
+![image](https://user-images.githubusercontent.com/110652225/208948327-42543179-ecc6-4642-9eff-0d4c591e1471.png)
