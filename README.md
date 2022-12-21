@@ -6,3 +6,4 @@ acontinuacion les mostrare ejemplos de como quedo el carrito de compras
 
 ![image](https://user-images.githubusercontent.com/110652225/208947078-db3dd4a6-dfa0-4a61-99f2-61c4de07fcbd.png)
 
+![image](https://user-images.githubusercontent.com/110652225/208947850-5c9c288d-7563-4b94-b7c9-8cd5b36d261b.png)
