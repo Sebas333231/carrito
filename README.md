@@ -9,3 +9,5 @@ acontinuacion les mostrare ejemplos de como quedo el carrito de compras
 PRODUCTOS SELECCIONADOS:
 
 ![image](https://user-images.githubusercontent.com/110652225/208947850-5c9c288d-7563-4b94-b7c9-8cd5b36d261b.png)
+
+FACTURA:
