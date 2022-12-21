@@ -20,3 +20,7 @@ MODAL:
 
 PROYECTO:
 
+![image](https://user-images.githubusercontent.com/110652225/208949077-593f0904-b1a3-4934-9cb3-771ccd69d9e8.png)
+
+
+"El archivo estaba muy pesado asi que subi carpeta lib y images, solo seria crear un proyecto flutter y remplazar la carpeta lib y copiar la carpeta images"
